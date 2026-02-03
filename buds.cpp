@@ -5,8 +5,7 @@ int main(){
     for(int i = 0; i< 5; i++){
         cout << i << endl;
     }
-    for(int i = 0; i< 10; i++){
-        cout << i << endl;
-    }
+    cout << "Budskie" << endl; //asd
+    cout << "Budskie" << endl; //asd
     return 0;
 }
