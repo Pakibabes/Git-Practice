@@ -5,7 +5,11 @@ int main(){
     for(int i = 0; i< 5; i++){
         cout << i << endl;
     }
-    cout << "Budskie" << endl; //asd
-    cout << "Budskie" << endl; //asd
+    cout << "How old are you Budskie? ";
+    int age;
+    cin >> age;
+
+
+    cout << "you are " << age << " years old";
     return 0;
 }
