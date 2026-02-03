@@ -1,4 +1,5 @@
 #include <iostream>
+#include "star_shapes.cpp"
 using namespace std;
 int main(){
     cout << "Budskie" << endl; //asd
@@ -10,6 +11,8 @@ int main(){
     cin >> age;
 
 
-    cout << "you are " << age << " years old";
+    cout << "you are " << age << " years old" << endl;
+
+    shapes(3);
     return 0;
 }
